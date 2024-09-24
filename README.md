@@ -12,59 +12,59 @@ I am passionate about life, for example, waking up next to the one I love, as we
 
 # Checklist - Desenvolvedor Backend Júnior
 
-- [ ] **Linguagens de Programação Backend**
-  - [ ] Java (outras: Python, C#, Node.js, Go)
-  - [ ] Conceitos de programação orientada a objetos (POO)
-  - [ ] Estruturas de dados e algoritmos
+- [x] **Linguagens de Programação Backend**
+  - [x] Java (outras: Python, C#, Node.js, Go)
+  - [x] Conceitos de programação orientada a objetos (POO)
+  - [x] Estruturas de dados e algoritmos
 
-- [ ] **Frameworks e Bibliotecas**
-  - [ ] Spring Boot (ou outro framework relevante)
-  - [ ] Estrutura MVC (Model-View-Controller)
+- [x] **Frameworks e Bibliotecas**
+  - [x] Spring Boot (ou outro framework relevante)
+  - [x] Estrutura MVC (Model-View-Controller)
 
-- [ ] **Bancos de Dados**
-  - [ ] SQL (CRUD, MySQL, PostgreSQL)
-  - [ ] NoSQL (MongoDB, Cassandra, Redis)
-  - [ ] Consultas, otimização e transações
+- [x] **Bancos de Dados**
+  - [x] SQL (CRUD, MySQL, PostgreSQL)
+  - [x] NoSQL (MongoDB, Cassandra, Redis)
+  - [x] Consultas, otimização e transações
 
-- [ ] **APIs e Web Services**
-  - [ ] REST (desenvolvimento e consumo)
+- [x] **APIs e Web Services**
+  - [x] REST (desenvolvimento e consumo)
   - [ ] gRPC ou GraphQL (diferencial)
-  - [ ] Autenticação e autorização (JWT, OAuth2)
+  - [x] Autenticação e autorização (JWT, OAuth2)
 
-- [ ] **Controle de Versão**
-  - [ ] Git (branches, merge, pull requests)
-  - [ ] Plataformas (GitHub, GitLab, Bitbucket)
+- [x] **Controle de Versão**
+  - [x] Git (branches, merge, pull requests)
+  - [x] Plataformas (GitHub, GitLab, Bitbucket)
 
-- [ ] **Testes e Qualidade de Código**
-  - [ ] Testes unitários (JUnit, Mockito)
-  - [ ] Testes de integração e end-to-end
-  - [ ] Ferramentas de análise de qualidade e code reviews
+- [x] **Testes e Qualidade de Código**
+  - [x] Testes unitários (JUnit, Mockito)
+  - [x] Testes de integração e end-to-end
+  - [x] Ferramentas de análise de qualidade e code reviews
 
-- [ ] **Conceitos de Redes e Protocolos**
-  - [ ] HTTP, HTTPS, DNS, TCP/IP
+- [x] **Conceitos de Redes e Protocolos**
+  - [x] HTTP, HTTPS, DNS, TCP/IP
   - [ ] Caching e balanceamento de carga
-  - [ ] Segurança em APIs
+  - [x] Segurança em APIs
 
-- [ ] **DevOps Básico e Cloud**
-  - [ ] Containers (Docker)
-  - [ ] Orquestração (Kubernetes - diferencial)
+- [x] **DevOps Básico e Cloud**
+  - [x] Containers (Docker)
+  - [x] Orquestração (Kubernetes - diferencial)
   - [ ] Ambientes Cloud (AWS, GCP, Azure)
-  - [ ] CI/CD (Integração contínua/Entrega contínua)
-  - [ ] Monitoramento e logs (Prometheus, Grafana, Elastic Stack)
+  - [x] CI/CD (Integração contínua/Entrega contínua)
+  - [x] Monitoramento e logs (Prometheus, Grafana, Elastic Stack)
 
-- [ ] **Segurança**
-  - [ ] Validação de dados e evitar injeção de SQL
-  - [ ] Criptografia de dados sensíveis
-  - [ ] Controle de acesso
+- [x] **Segurança**
+  - [x] Validação de dados e evitar injeção de SQL
+  - [x] Criptografia de dados sensíveis
+  - [x] Controle de acesso
 
-- [ ] **Metodologias Ágeis**
-  - [ ] Scrum, Kanban ou outra metodologia ágil
-  - [ ] Ferramentas de organização (Jira, Trello)
+- [x] **Metodologias Ágeis**
+  - [x] Scrum, Kanban ou outra metodologia ágil
+  - [x] Ferramentas de organização (Jira, Trello)
 
-- [ ] **Documentação**
-  - [ ] Escrever documentação clara para APIs e fluxos de negócio
-  - [ ] Ferramentas de documentação de APIs (Swagger)
+- [x] **Documentação**
+  - [x] Escrever documentação clara para APIs e fluxos de negócio
+  - [x] Ferramentas de documentação de APIs (Swagger)
 
-- [ ] **Resolução de Problemas e Lógica**
-  - [ ] Identificar problemas e propor soluções eficazes
-  - [ ] Entendimento de complexidade de algoritmos e otimização de código
+- [x] **Resolução de Problemas e Lógica**
+  - [x] Identificar problemas e propor soluções eficazes
+  - [x] Entendimento de complexidade de algoritmos e otimização de código
